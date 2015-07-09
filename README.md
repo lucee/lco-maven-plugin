@@ -1,0 +1,1 @@
+This repository contains the maven plugin to build Lucee Core Files.
